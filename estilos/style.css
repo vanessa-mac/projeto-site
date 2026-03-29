@@ -14,3 +14,28 @@ main {
     padding: 10px;
     box-shadow: 3xp 3xp 5xp rgba(0, 0, 0, 0.39);
 }
+
+h1 {
+    font-size: 2em;              /* Título principal grande */
+    color: rgb(58, 0, 112);      /* Cor roxa escura */
+}
+
+h2 {
+    font-size: 1.5em;            /* Subtítulo médio */
+    color: rgb(58, 0, 112);      /* Mesma cor roxa */
+}
+
+img.lado {
+    float: right;                /* Imagem flutua à direita */
+}
+
+a {
+    text-decoration: none;       /* Remove sublinhado do link */
+    font-weight: bold;           /* Texto em negrito */
+    color: rgb(58, 0, 112);      /* Cor roxa */
+}
+
+a:hover {
+    text-decoration: underline;  /* Adiciona sublinhado ao passar o mouse */
+    color: rgb(26, 26, 255);     /* Muda para azul ao passar o mouse */
+}
