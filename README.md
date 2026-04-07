@@ -1,2 +1,2 @@
 # projeto-site
-projeto de criaçã ode um site - curso github
+projeto de criação de um site - curso github
